@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\26 fevralHome\Homepractice\Homepractice\bin\Debug\net6.0\Homepractice.exe
+C:\Users\user\Desktop\26 fevralHome\Homepractice\Homepractice\bin\Debug\net6.0\Homepractice.deps.json
+C:\Users\user\Desktop\26 fevralHome\Homepractice\Homepractice\bin\Debug\net6.0\Homepractice.runtimeconfig.json
+C:\Users\user\Desktop\26 fevralHome\Homepractice\Homepractice\bin\Debug\net6.0\Homepractice.dll
+C:\Users\user\Desktop\26 fevralHome\Homepractice\Homepractice\bin\Debug\net6.0\Homepractice.pdb
+C:\Users\user\Desktop\26 fevralHome\Homepractice\Homepractice\obj\Debug\net6.0\Homepractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\26 fevralHome\Homepractice\Homepractice\obj\Debug\net6.0\Homepractice.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\26 fevralHome\Homepractice\Homepractice\obj\Debug\net6.0\Homepractice.AssemblyInfo.cs
+C:\Users\user\Desktop\26 fevralHome\Homepractice\Homepractice\obj\Debug\net6.0\Homepractice.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\26 fevralHome\Homepractice\Homepractice\obj\Debug\net6.0\Homepractice.dll
+C:\Users\user\Desktop\26 fevralHome\Homepractice\Homepractice\obj\Debug\net6.0\refint\Homepractice.dll
+C:\Users\user\Desktop\26 fevralHome\Homepractice\Homepractice\obj\Debug\net6.0\Homepractice.pdb
+C:\Users\user\Desktop\26 fevralHome\Homepractice\Homepractice\obj\Debug\net6.0\Homepractice.genruntimeconfig.cache
+C:\Users\user\Desktop\26 fevralHome\Homepractice\Homepractice\obj\Debug\net6.0\ref\Homepractice.dll
